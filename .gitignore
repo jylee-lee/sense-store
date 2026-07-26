@@ -1,0 +1,6 @@
+node_modules/
+migration/serviceAccountKey.json
+migration/node_modules/
+.env
+.env.local
+.vercel

@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\ASUS\\\\Desktop\\\\센스토어\\\\images\\\\\" | Where-Object { $_.Name -match '^recipe\\(29|30|31|32\\)-' } | Select-Object Name | Sort-Object Name)"
+    ]
+  }
+}
