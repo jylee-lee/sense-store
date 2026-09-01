@@ -34,11 +34,11 @@ window.RECIPE_VIDEOS = {
   "food62.html": "https://youtu.be/S-4Jp4kvRd8",  // 춘천 닭꼬치(데리야끼)
 
   // ── 삼양짜르르 콜라보 ──
-  "collab01.html": "https://youtu.be/gYrbs38sig0", // 우지라면
-  "collab02.html": "https://youtu.be/QR2-yPSCb2Y", // 짜르르
-  "collab03.html": "https://youtu.be/JB1lvXPLhrk", // 짜계치
-  "collab04.html": "https://youtu.be/ylj9i8DP5iE", // 꿔바르르
-  "collab05.html": "https://youtu.be/5L5U4PdH2Z0"  // 불닭짜르치
+  "collab01.html": "https://youtu.be/iswvp7IHvZo", // 우지라면
+  "collab02.html": "https://youtu.be/3O-7F8eeYzA", // 짜르르
+  "collab03.html": "https://youtu.be/zNVkjf3wZoo", // 짜르치
+  "collab04.html": "https://youtu.be/ywXHB9fGbjM", // 꿔바르르
+  "collab05.html": "https://youtu.be/OQxSGLneZ9k"  // 불닭짜르치
 };
 
 /* ---- 아래는 손대지 않으셔도 됩니다 (버튼을 자동으로 만들어주는 부분) ---- */
