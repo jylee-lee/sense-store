@@ -8,6 +8,17 @@
    ▶ 유튜브 공개설정은 반드시 '일부공개(Unlisted)'로!
    ========================================================= */
 window.RECIPE_VIDEOS = {
+  // ── 추가 영상 (2026-09) ──
+  "food57.html": "https://youtu.be/0zupucSsFP4",  // 쿠지라이식 신계치(라면조리기)
+  "recipe-candy-soda-pop-slush.html":   "https://youtu.be/2P0mYHmSa-M",  // 캔디소다팝 슬러시
+  "recipe-zero-peach-iced-tea-ice.html":"https://youtu.be/Z2caofPb6NM",  // (제로)복숭아 아이스티
+  "recipe-banana-latte-iced-only.html": "https://youtu.be/8YcL9VrPd4k",  // 바나나 라떼
+  "recipe-matcha-latte-hot.html":       "https://youtu.be/nFCTU-JDN8U",  // 말차라떼 HOT
+  "food54.html": "https://youtu.be/owqz1TclMtM",  // 줄줄이 오뎅튀김(토핑)
+  "food23.html": "https://youtu.be/G1DUEoAPVvY",  // 치킨마요덮밥
+  "food45.html": "https://youtu.be/ytmOZ1B7BvU",  // 오리지널 떡볶이
+  "food46.html": "https://youtu.be/JTBB6MBB0E8",  // 라볶이
+
   // ── 음료 ──
   "recipe-cafe-mocha-hot.html":        "https://youtu.be/GDlN4PDKUDs",  // 카페모카 HOT
   "recipe-cafe-mocha-ice.html":        "https://youtu.be/NFXAb-upM1E",  // 카페모카 ICE
