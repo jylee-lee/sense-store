@@ -8,6 +8,11 @@
    ▶ 유튜브 공개설정은 반드시 '일부공개(Unlisted)'로!
    ========================================================= */
 window.RECIPE_VIDEOS = {
+  // ── 추가 영상 2차 (2026-09-17) ──
+  "food17.html": "https://youtu.be/CtBWFrrmNDw",  // 스팸계란비빔밥
+  "food19.html": "https://youtu.be/Po5a3geBQgM",  // 아삭 김치볶음밥
+  "food20.html": "https://youtu.be/XdLFgpdZY0c",  // 데리야끼 치킨볶음밥
+  "food18.html": "https://youtu.be/XQ-tf4_nfGQ",  // 매콤 차돌깍두기 볶음밥
   // ── 추가 영상 (2026-09) ──
   "food57.html": "https://youtu.be/0zupucSsFP4",  // 쿠지라이식 신계치(라면조리기)
   "recipe-candy-soda-pop-slush.html":   "https://youtu.be/2P0mYHmSa-M",  // 캔디소다팝 슬러시
