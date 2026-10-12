@@ -8,6 +8,13 @@
    ▶ 유튜브 공개설정은 반드시 '일부공개(Unlisted)'로!
    ========================================================= */
 window.RECIPE_VIDEOS = {
+  // ── 추가 영상 3차 (2026-10-12) ──
+  "food24.html": "https://youtu.be/7SEYp_OZQ1o",  // 안동찜닭덮밥
+  "food40.html": "https://youtu.be/rPZc3ra6YOg",  // 안동찜닭우동
+  "food42.html": "https://youtu.be/0voy4odsWr4",  // 마라탕(라면조리기)
+  "food47.html": "https://youtu.be/sbJD8Z5LQes",  // 베이컨크림떡볶이
+  "food48.html": "https://youtu.be/4gAg0hsc8Jw",  // 로제투움바 떡볶이
+  "food21.html": "https://youtu.be/h7D0E7yfZCM",  // 불삼겹치즈덮밥
   // ── 추가 영상 2차 (2026-09-17) ──
   "food17.html": "https://youtu.be/CtBWFrrmNDw",  // 스팸계란비빔밥
   "food19.html": "https://youtu.be/Po5a3geBQgM",  // 아삭 김치볶음밥
