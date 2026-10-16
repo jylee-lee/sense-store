@@ -8,6 +8,11 @@
    ▶ 유튜브 공개설정은 반드시 '일부공개(Unlisted)'로!
    ========================================================= */
 window.RECIPE_VIDEOS = {
+  // ── 추가 영상 4차 (2026-10-16) ──
+  "food25.html": "https://youtu.be/IZowd_TgqmU",  // 경양식 등심왕돈까스
+  "food15.html": "https://youtu.be/03_w6_DDOaA",  // 갈릭허니버터 프라이
+  "food16.html": "https://youtu.be/bB92CXBRS9M",  // 칠리갈릭 프라이
+  "food14.html": "https://youtu.be/w-0gvS4mOsI",  // 오리지널 프라이
   // ── 추가 영상 3차 (2026-10-12) ──
   "food24.html": "https://youtu.be/7SEYp_OZQ1o",  // 안동찜닭덮밥
   "food40.html": "https://youtu.be/rPZc3ra6YOg",  // 안동찜닭우동
