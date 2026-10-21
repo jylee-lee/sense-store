@@ -8,6 +8,12 @@
    ▶ 유튜브 공개설정은 반드시 '일부공개(Unlisted)'로!
    ========================================================= */
 window.RECIPE_VIDEOS = {
+  // ── 추가 영상 5차 (2026-10-21) ──
+  "food26.html": "https://youtu.be/oOa_w7W6ZOM",  // 신라면/진라면
+  "food27.html": "https://youtu.be/qLwq-vAE_7U",  // 참깨라면
+  "food29.html": "https://youtu.be/3PpPRkMHq0o",  // 진짬뽕
+  "food28.html": "https://youtu.be/55X16ROblvQ",  // 얼큰 너구리
+  "food30.html": "https://youtu.be/pEbyv94ZyJg",  // 크림짬뽕라면
   // ── 추가 영상 4차 (2026-10-16) ──
   "food25.html": "https://youtu.be/IZowd_TgqmU",  // 경양식 등심왕돈까스
   "food15.html": "https://youtu.be/03_w6_DDOaA",  // 갈릭허니버터 프라이
