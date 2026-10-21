@@ -8,6 +8,10 @@
    ▶ 유튜브 공개설정은 반드시 '일부공개(Unlisted)'로!
    ========================================================= */
 window.RECIPE_VIDEOS = {
+  // ── 추가 영상 6차 (2026-10-21) ──
+  "food31.html": "https://youtu.be/BUu0ymEQ3sI",  // 짜파게티
+  "food32.html": "https://youtu.be/sL5Q_EOTc5A",  // 비빔면
+  "food33.html": "https://youtu.be/WqoKxGNhhm4",  // 불닭볶음면
   // ── 추가 영상 5차 (2026-10-21) ──
   "food26.html": "https://youtu.be/oOa_w7W6ZOM",  // 신라면/진라면
   "food27.html": "https://youtu.be/qLwq-vAE_7U",  // 참깨라면
