@@ -8,6 +8,22 @@
    ▶ 유튜브 공개설정은 반드시 '일부공개(Unlisted)'로!
    ========================================================= */
 window.RECIPE_VIDEOS = {
+  // ── 추가 영상 7차 (2026-10-28) ──
+  "food04.html": "https://youtu.be/7Ax1lO6UsVs",  // 브리오슈 오리지널 핫도그
+  "food05.html": "https://youtu.be/FtQ9t89PH5A",  // 브리오슈 칠리갈릭 핫도그
+  "food55.html": "https://youtu.be/LoRyigsvMU4",  // 별크런치 핫도그
+  "recipe-americano-hot.html": "https://youtu.be/qWp97Y-jxx4",  // 아메리카노 HOT
+  "recipe-americano-ice.html": "https://youtu.be/3kJ_Cks3p_E",  // 아이스 아메리카노
+  "recipe-sweet-latte.html": "https://youtu.be/ricYMrcjypw",  // 달달 연유라떼 ICE
+  "food02.html": "https://youtu.be/84jQ28Ob-Rg",  // 리얼 허니브레드
+  "food07.html": "https://youtu.be/vvXW9CfvzxI",  // 치즈스틱
+  "food03.html": "https://youtu.be/9uKloo989wo",  // 아그작브라우니(초코바닐라 브라우니)
+  "food43.html": "https://youtu.be/cEVsveo1Phc",  // 겉바속촉 꿔바로우
+  "food11.html": "https://youtu.be/aSvrBVyaE3c",  // 오리지널 팝콘
+  "food12.html": "https://youtu.be/gLGeKGTSXRg",  // 허니버터 팝콘
+  "food09.html": "https://youtu.be/uBJIwIYASfM",  // 오리지널 나쵸
+  "food01.html": "https://youtu.be/5hg5Ihip4XQ",  // 투니랜드 츄러스
+  "food06.html": "https://youtu.be/0ANvC7SMJj0",  // 소떡소떡
   // ── 추가 영상 6차 (2026-10-21) ──
   "food31.html": "https://youtu.be/BUu0ymEQ3sI",  // 짜파게티
   "food32.html": "https://youtu.be/sL5Q_EOTc5A",  // 비빔면
