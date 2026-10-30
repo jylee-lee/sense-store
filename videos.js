@@ -8,13 +8,27 @@
    ▶ 유튜브 공개설정은 반드시 '일부공개(Unlisted)'로!
    ========================================================= */
 window.RECIPE_VIDEOS = {
+  // ── 추가 영상 8차 (2026-10-30) 음료 ──
+  "recipe-cafe-latte-hot.html": "https://youtu.be/tLdXG5S7l9A",  // 카페라떼 HOT
+  "recipe-cafe-latte-ice.html": "https://youtu.be/HEpyA4UDXE0",  // 카페라떼 ICE
+  "recipe-vanilla-latte-hot.html": "https://youtu.be/AmJtCJxHOTE",  // 바닐라라떼 HOT
+  "recipe-vanilla-latte-ice.html": "https://youtu.be/F_dUr8TK2FE",  // 바닐라라떼 ICE
+  "recipe-caramel-macchiato-hot.html": "https://youtu.be/je5qIInYK_c",  // 카라멜마끼아또 HOT
+  "recipe-caramel-macchiato-ice.html": "https://youtu.be/cvk1vHnd_Dg",  // 카라멜마끼아또 ICE
+  "recipe-chocolate-latte-hot.html": "https://youtu.be/tO9XS2stntE",  // 초콜릿라떼 HOT
+  "recipe-chocolate-latte-ice.html": "https://youtu.be/Vhq67TetIEA",  // 초콜릿라떼 ICE
+  "recipe-green-grape-ade.html": "https://youtu.be/ONHDGwcwX10",  // 청포도 에이드
+  "recipe-blue-lemon-iced-tea-ice.html": "https://youtu.be/JyYGM8R28S8",  // 블루레몬 아이스티 ICE
+  "recipe-lemon-ade.html": "https://youtu.be/A5npm09ueGQ",  // 레몬 에이드
+  "recipe-earlgrey-chamomile-tea-hot.html": "https://youtu.be/FUTlByMb1oc",  // 얼그레이/캐모마일 티 HOT
+  "recipe-earlgrey-chamomile-tea-ice.html": "https://youtu.be/_ziWfIgCfgI",  // 얼그레이/캐모마일 티 ICE
   // ── 추가 영상 7차 (2026-10-28) ──
   "food04.html": "https://youtu.be/7Ax1lO6UsVs",  // 브리오슈 오리지널 핫도그
   "food05.html": "https://youtu.be/FtQ9t89PH5A",  // 브리오슈 칠리갈릭 핫도그
   "food55.html": "https://youtu.be/LoRyigsvMU4",  // 별크런치 핫도그
-  "recipe-americano-hot.html": "https://youtu.be/qWp97Y-jxx4",  // 아메리카노 HOT
-  "recipe-americano-ice.html": "https://youtu.be/3kJ_Cks3p_E",  // 아이스 아메리카노
-  "recipe-sweet-latte.html": "https://youtu.be/ricYMrcjypw",  // 달달 연유라떼 ICE
+  "recipe-americano-hot.html": "https://youtu.be/nCb9sVb4MWo",  // 아메리카노 HOT (링크 교체 2026-10-30)
+  "recipe-americano-ice.html": "https://youtu.be/yJecOeFawLs",  // 아메리카노 ICE (링크 교체 2026-10-30)
+  "recipe-sweet-latte.html": "https://youtu.be/5GZf_kW30Q8",  // 달달 연유라떼 ICE (링크 교체 2026-10-30)
   "food02.html": "https://youtu.be/84jQ28Ob-Rg",  // 리얼 허니브레드
   "food07.html": "https://youtu.be/vvXW9CfvzxI",  // 치즈스틱
   "food03.html": "https://youtu.be/9uKloo989wo",  // 아그작브라우니(초코바닐라 브라우니)
