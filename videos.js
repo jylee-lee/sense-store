@@ -8,6 +8,17 @@
    ▶ 유튜브 공개설정은 반드시 '일부공개(Unlisted)'로!
    ========================================================= */
 window.RECIPE_VIDEOS = {
+  // ── 추가 영상 9차 (2026-11-09) 음료 ──
+  "recipe-mango-yogurt-smoothie.html": "https://youtu.be/iT2OzusDojg",  // 망고요거트 스무디
+  "recipe-plain-yogurt-smoothie.html": "https://youtu.be/oxJ81Hw0DPU",  // 플레인요거트 스무디
+  "recipe-blueberry-yogurt-smoothie.html": "https://youtu.be/OJwloOregY0",  // 블루베리요거트 스무디
+  "recipe-strawberry-yogurt-smoothie.html": "https://youtu.be/MB1IMHJOV2o",  // 딸기요거트 스무디
+  "recipe-orange-ade.html": "https://youtu.be/mLlfEQbvWHU",  // 오렌지 에이드
+  "recipe-java-chip-choco-frappe.html": "https://youtu.be/MZ8aGmEq0OY",  // 자바칩 초코프라페
+  "recipe-cookies-and-cream-frappe.html": "https://youtu.be/ebbgQjSxAjc",  // 쿠앤크 프라페
+  "recipe-blue-lemon-iced-tea-ice.html": "https://youtu.be/CF7tKRHioDQ",  // 블루레몬 아이스티 ICE
+  "recipe-peach-iced-tea-ice.html": "https://youtu.be/Of4DQdJJvR4",  // 복숭아 아이스티 ICE
+
   // ── 추가 영상 8차 (2026-10-30) 음료 ──
   "recipe-cafe-latte-hot.html": "https://youtu.be/tLdXG5S7l9A",  // 카페라떼 HOT
   "recipe-cafe-latte-ice.html": "https://youtu.be/HEpyA4UDXE0",  // 카페라떼 ICE
@@ -18,7 +29,6 @@ window.RECIPE_VIDEOS = {
   "recipe-chocolate-latte-hot.html": "https://youtu.be/tO9XS2stntE",  // 초콜릿라떼 HOT
   "recipe-chocolate-latte-ice.html": "https://youtu.be/Vhq67TetIEA",  // 초콜릿라떼 ICE
   "recipe-green-grape-ade.html": "https://youtu.be/ONHDGwcwX10",  // 청포도 에이드
-  "recipe-blue-lemon-iced-tea-ice.html": "https://youtu.be/JyYGM8R28S8",  // 블루레몬 아이스티 ICE
   "recipe-lemon-ade.html": "https://youtu.be/A5npm09ueGQ",  // 레몬 에이드
   "recipe-earlgrey-chamomile-tea-hot.html": "https://youtu.be/FUTlByMb1oc",  // 얼그레이/캐모마일 티 HOT
   "recipe-earlgrey-chamomile-tea-ice.html": "https://youtu.be/_ziWfIgCfgI",  // 얼그레이/캐모마일 티 ICE
