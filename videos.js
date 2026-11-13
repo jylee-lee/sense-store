@@ -8,6 +8,15 @@
    ▶ 유튜브 공개설정은 반드시 '일부공개(Unlisted)'로!
    ========================================================= */
 window.RECIPE_VIDEOS = {
+  // ── 26하반기 신메뉴 ──
+  "recipe-bacon-cream-curry-udon.html": "https://youtu.be/smne5yAetiU",  // 베이컨 크림카레우동
+  "recipe-wakkyu-mochi.html": "https://youtu.be/rnWSzQxm9II",  // 왁뿌 찹쌀떡(초코, 우유)
+  "recipe-crunchy-hotbar.html": "https://youtu.be/Zd9Gi4eM_q8",  // 쫄깃 핫바
+  "recipe-miyeok-tteokguk-bap.html": "https://youtu.be/aEGxw8RN0E0",  // 든든한끼 미역떡국밥
+  "recipe-chicken-curry-rice.html": "https://youtu.be/9rGmR-AjLoU",  // 바삭 치킨카레덮밥
+  "recipe-cheese-dakgalbi-tteokbokki.html": "https://youtu.be/8riifeNfDiA",  // 치즈 듬뿍 닭갈비떡볶이
+  "recipe-ramen-cooker-setting.html": "https://youtu.be/ci9tZH7x6KE",  // 라면조리기 설정법
+
   // ── 추가 영상 9차 (2026-11-09) 음료 ──
   "recipe-mango-yogurt-smoothie.html": "https://youtu.be/iT2OzusDojg",  // 망고요거트 스무디
   "recipe-plain-yogurt-smoothie.html": "https://youtu.be/oxJ81Hw0DPU",  // 플레인요거트 스무디
