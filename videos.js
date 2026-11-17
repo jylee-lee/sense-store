@@ -8,6 +8,8 @@
    ▶ 유튜브 공개설정은 반드시 '일부공개(Unlisted)'로!
    ========================================================= */
 window.RECIPE_VIDEOS = {
+  // ── 더블치즈 나초 ──
+  "food10.html": "https://youtu.be/ygBy77LBBtY",  // 더블치즈 나초
   // ── 26하반기 신메뉴 ──
   "recipe-bacon-cream-curry-udon.html": "https://youtu.be/smne5yAetiU",  // 베이컨 크림카레우동
   "recipe-wakkyu-mochi.html": "https://youtu.be/rnWSzQxm9II",  // 왁뿌 찹쌀떡(초코, 우유)
