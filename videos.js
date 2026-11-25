@@ -8,6 +8,7 @@
    ▶ 유튜브 공개설정은 반드시 '일부공개(Unlisted)'로!
    ========================================================= */
 window.RECIPE_VIDEOS = {
+  "choco-shell-guide.html": "https://youtu.be/nkyPU1PYFHQ",  // 초코쉘 사용법
   // ── 더블치즈 나초 ──
   "food10.html": "https://youtu.be/ygBy77LBBtY",  // 더블치즈 나초
   // ── 26하반기 신메뉴 ──
