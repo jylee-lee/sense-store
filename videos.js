@@ -8,15 +8,16 @@
    ▶ 유튜브 공개설정은 반드시 '일부공개(Unlisted)'로!
    ========================================================= */
 window.RECIPE_VIDEOS = {
+  "recipe-pink-matcha-latte.html": "https://youtu.be/EVb5rHcY_oc",  // 핑크말차라떼
   "choco-shell-guide.html": "https://youtu.be/nkyPU1PYFHQ",  // 초코쉘 사용법
   // ── 더블치즈 나초 ──
   "food10.html": "https://youtu.be/ygBy77LBBtY",  // 더블치즈 나초
   // ── 26하반기 신메뉴 ──
-  "recipe-bacon-cream-curry-udon.html": "https://youtu.be/smne5yAetiU",  // 베이컨 크림카레우동
+  "recipe-bacon-cream-curry-udon.html": "https://youtu.be/smne5yAetiU",  // 홋카이도크림카레우동
   "recipe-wakkyu-mochi.html": "https://youtu.be/rnWSzQxm9II",  // 왁뿌 찹쌀떡(초코, 우유)
   "recipe-crunchy-hotbar.html": "https://youtu.be/Zd9Gi4eM_q8",  // 쫄깃 핫바
-  "recipe-miyeok-tteokguk-bap.html": "https://youtu.be/UfueS0UmGzg",  // 든든한끼 미역떡국밥
-  "recipe-chicken-curry-rice.html": "https://youtu.be/9rGmR-AjLoU",  // 바삭 치킨카레덮밥
+  "recipe-miyeok-tteokguk-bap.html": "https://youtu.be/UfueS0UmGzg",  // 완도미역국밥
+  "recipe-chicken-curry-rice.html": "https://youtu.be/9rGmR-AjLoU",  // 홋카이도치킨카레덮밥
   "recipe-cheese-dakgalbi-tteokbokki.html": "https://youtu.be/8riifeNfDiA",  // 치즈 듬뿍 닭갈비떡볶이
   "recipe-ramen-cooker-setting.html": "https://youtu.be/ci9tZH7x6KE",  // 라면조리기 설정법
 
